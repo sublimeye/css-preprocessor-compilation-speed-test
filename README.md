@@ -35,6 +35,7 @@ less:development  483ms  ■■■■■■■■■ 8%
 less:development  484ms  ■■■■■■■■■ 8%
 less:development  500ms  ■■■■■■■■■■ 9%
 Total 6s
+```
 
 Stylus (grunt-contrib-stylus)
 ----
@@ -56,6 +57,7 @@ stylus:bootstrap  655ms  ■■■■■■■■■■ 9%
 stylus:bootstrap  653ms  ■■■■■■■■■■ 9%
 stylus:bootstrap  597ms  ■■■■■■■■■ 8%
 Total 7s
+```
 
 Compass (grunt-contrib-compass)
 ----
